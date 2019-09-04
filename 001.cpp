@@ -27,6 +27,7 @@ int main(){
     vector<vector<int> > a;
     vector<vector<int> > b;
     vector<vector<int> > answer;
+    // test case a = {{1,2},{2,3}}, b = {{4,5}, {5,8}}
     a.push_back({1,2});
     a.push_back({2,3});
     b.push_back({4,5});
