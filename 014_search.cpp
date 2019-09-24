@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// https://programmers.co.kr/learn/courses/30/lessons/42840
+// 모의고사
+
 vector<int> solution(vector<int> answers) {
     vector<int> answer;
     vector<int> tAnswer(3,0);

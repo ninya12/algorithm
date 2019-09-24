@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
 
+// https://programmers.co.kr/learn/courses/30/lessons/42576
+// 완주하지못한선수
+
 using namespace std;
 
 // 단순 2중 for문 시간효율에서 탈락.

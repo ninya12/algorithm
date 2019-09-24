@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
 
+// https://programmers.co.kr/learn/courses/30/lessons/12981
+// 끝말잇기
+
 using namespace std;
 
 // function that decide who is win.

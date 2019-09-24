@@ -1,6 +1,9 @@
 #include <string>
 #include <vector>
 
+// https://programmers.co.kr/learn/courses/30/lessons/12928
+// 약수의 합.
+
 using namespace std;
 
 int solution(int n) {

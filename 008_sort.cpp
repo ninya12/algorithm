@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
 
+// https://programmers.co.kr/learn/courses/30/lessons/42748
+// K 번째 수
+
 using namespace std;
 
 vector<int> solution(vector<int> array, vector<vector<int>> commands) {

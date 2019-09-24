@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+// https://programmers.co.kr/learn/courses/30/lessons/42862
+// 체육복
 
 int solution(int n, vector<int> lost, vector<int> reserve) {
     int answer = 0;

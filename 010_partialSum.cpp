@@ -1,6 +1,9 @@
 #include <string>
 #include <vector>
 
+// https://programmers.co.kr/learn/courses/30/lessons/12912
+// 두 정수 사이 합
+
 using namespace std;
 
 long long solution(int a, int b) {

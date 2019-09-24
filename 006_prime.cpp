@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
 
+// https://programmers.co.kr/learn/courses/30/lessons/12921
+// 소수찾기.
+
 using namespace std;
 
 // 소수 개수 찾기
